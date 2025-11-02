@@ -9,7 +9,7 @@ Perfect for beginners learning frontend web design.
 ## 🚀 Live Demo  
 Click the link below to view the project live:
 
-🔗 **Live Site:** [*Add your live link here*  ](https://fantaanimatepage.vercel.app/)
+🔗 **Live Site:** (https://fantaanimatepage.vercel.app/)
 ---
 
 ## 📌 Features
